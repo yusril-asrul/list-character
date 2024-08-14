@@ -85,7 +85,7 @@ body{
 }
 
 
-.list-character .item img.character:hover{
+.list-character .item:hover img.character{
     width: 120%;
     transition: .6s;
     opacity: 1;
